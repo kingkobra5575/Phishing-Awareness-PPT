@@ -1,5 +1,3 @@
-#Phishing Awareness Training – Fortifying Our Digital Defenses
-
 This repository contains a cybersecurity awareness presentation focused on phishing attacks. It is designed to educate employees and individuals on identifying, preventing, and reporting phishing threats.
 
 ## 📌 Contents
