@@ -15,6 +15,3 @@ This repository contains a cybersecurity awareness presentation focused on phish
 - IT & cybersecurity teams
 - HR/Training departments
 - Individuals looking to boost their cybersecurity awareness
-
-## 🔄 License
-[MIT License](LICENSE) – free to use, modify, and share with proper credit.
